@@ -4,7 +4,6 @@ A flutter plugin for extracting and downloading youtube video url
 
 ## Usage
 
-[Example] (https://github.com/Destiny-Ed/flutter_youtube_downloader/blob/main/example/lib/main.dart)
 
 To use this plugin : *add the dependency to your [pubspec.yaml] file
 
